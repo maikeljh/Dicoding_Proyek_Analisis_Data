@@ -4,3 +4,5 @@ matplotlib==3.5.0
 ipython==7.29.0
 streamlit==1.19.0
 babel==2.9.1
+numpy==1.26.4
+folium==0.12.1
