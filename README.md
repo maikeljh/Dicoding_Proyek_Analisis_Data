@@ -1,6 +1,6 @@
 # E-Commerce Project Data Analysis
 
-This project is a data analysis and visualization dashboard built using **Streamlit**. It provides insights into customer demographics, product sales, and customer behavior using RFM (Recency, Frequency, Monetary) analysis. The dashboard also includes interactive features like date range filters for total orders and revenue. You can see the whole data preparation and analysis in notebook.ipynb.
+This project is a data analysis and visualization dashboard built using **Streamlit**. It provides insights into customer demographics, product sales, and customer behavior using RFM (Recency, Frequency, Monetary) analysis. The dashboard also includes interactive features like date range filters for total orders and revenue. You can see the whole data preparation and analysis in notebook.ipynb. You can see the dashboard online in https://michaeljh-data-analysis-dashboard-dicoding.streamlit.app.
 
 # How to Run the Project
 
